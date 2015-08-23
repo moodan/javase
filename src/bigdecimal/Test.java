@@ -11,6 +11,6 @@ public class Test {
 
 
     public Test() {
-        i = 2;
+        i = 100_000_000;
     }
 }
